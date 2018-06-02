@@ -1,0 +1,4 @@
+BOOTSTRAP: npm install --save bootstrap@3
+
+ng generate component [componentName]
+ng g c [componentName]
